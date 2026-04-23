@@ -3,7 +3,7 @@
 I am a passionate learner currently exploring the vast world of programming and automation. I enjoy turning what I learn into real-world projects and constantly improving my skills.
 
 ---
-
+```
 ### 🛠️ Current Tech Stacks
 
 **`[ Languages ]`**
@@ -18,6 +18,7 @@ I am a passionate learner currently exploring the vast world of programming and 
 **`[ Goals ]`**
 * Applying new knowledge to build useful and creative projects.
 ---
+```
 ### 🌑 About Me
 > "Learning every day and building step by step."
 
