@@ -14,6 +14,7 @@ I am a passionate learner currently exploring the vast world of programming and 
 
 **`[ Learning ]`**
 * **HAOS** | **Ollama** | **SAP** | **PostgreSQL** | **Network** : Developing my skills in Full-stack Development,  Network Security and Local AI.
+
 **`[ Goals ]`**
 * Applying new knowledge to build useful and creative projects.
 ---
