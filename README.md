@@ -3,22 +3,21 @@
 I am a passionate learner currently exploring the vast world of programming and automation. I enjoy turning what I learn into real-world projects and constantly improving my skills.
 
 ---
-```
+<!--
 ### 🛠️ Current Tech Stacks
 
 **`[ Languages ]`**
 * **C** | **C#** | **Python** | **Java** | **TypeScript** | **Node.js** | **VBA** | **SQL**
 
 **`[ Tools ,Network & Infrastructure ]`**
-* **n8n** | **Docker** |
-
+* **n8n** | **Docker** | **HAOS** | **Ollama** | **SAP** | **PostgreSQL** | **Network** 
+-->
 **`[ Learning ]`**
-* **HAOS** | **Ollama** | **SAP** | **PostgreSQL** | **Network** : Developing my skills in Full-stack Development,  Network Security and Local AI.
+* Developing my skills in Full-stack Development,  Network Security and Local AI.
 
 **`[ Goals ]`**
 * Applying new knowledge to build useful and creative projects.
 ---
-```
 ### 🌑 About Me
 > "Learning every day and building step by step."
 
