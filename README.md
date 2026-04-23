@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Xynezter
 
-<!--
-**Xynezter/Xynezter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate learner currently exploring the vast world of programming and automation. I enjoy turning what I learn into real-world projects and constantly improving my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Tech Stacks
+
+**`[ Languages ]`**
+*  **C** | **C#** | **Python** | **Java** | **TypeScript** | **Node.js** | **VBA** | **SQL**
+
+---
+
+**`[ Tools ,Network & Infrastructure ]`**
+* **n8n** | **Docker** |
+
+---
+
+* **`[ Learning ]`** ➔  **HAOS** | **Ollama** | **SAP** | **PostgreSQL** | **Network** : Developing my skills in Full-stack Development,  Network Security and Local AI.
+* **`[ Goals ]`** ➔ Applying new knowledge to build useful and creative projects.
+---
+### 🌑 About Me
+> "Learning every day and building step by step."
+
+*Feel free to explore my repositories!*
